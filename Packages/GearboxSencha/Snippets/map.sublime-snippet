@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[map(function(${1:item}) {
+    ${2:$TM_SELECTED_TEXT}
+});
+]]></content>
+	<tabTrigger>map</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

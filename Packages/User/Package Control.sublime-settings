@@ -1,0 +1,42 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"CoffeeScript"
+	],
+	"installed_packages":
+	[
+		"BlameHighlighter",
+		"CoffeeScript",
+		"Colorsublime",
+		"Diffy",
+		"DocBlockr",
+		"GearboxSencha",
+		"Git",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JSCS-Formatter",
+		"JsFormat",
+		"JSHint Gutter",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Predawn",
+		"Pretty JSON",
+		"SCSS",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phplint",
+		"Theme - Asphalt",
+		"Theme - itg.flat",
+		"URLEncode"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/alpha/packages.json"
+	]
+}

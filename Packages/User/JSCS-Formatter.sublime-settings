@@ -1,0 +1,7 @@
+{
+    "config_path": "/home/morion/projects/Easylitics-2012/.jscsrc",
+    "format_on_save": true,
+    "jscs_path": {
+        "linux": "/usr/local/bin/jscs"
+    }
+}

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[forEach(function(${1:item}) {
+	${2:$TM_SELECTED_TEXT}
+});
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

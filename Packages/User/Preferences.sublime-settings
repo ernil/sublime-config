@@ -1,0 +1,35 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
+	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+		"app-all.js",
+		"style.css",
+		"all-classes.js"
+	],
+	"folder_exclude_patterns":
+	[
+		"cache"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"CoffeeScript", 
+		"JSCS-Formatter",
+		"JSHint Gutter",
+		"Vintage"
+	],
+	"theme": "OneDarkMaterial.sublime-theme",
+	"material_theme_small_statusbar"          : false , // Set small status bar
+	"material_theme_compact_panel"            : true , // Set minimal padding for the search panel
+	"material_theme_bold_tab"                 : false , // Make the tab labels bolder
+	"material_theme_tabs_separator"           : true , // Show tabs separator, this disables tab hover animation
+	"material_theme_accent_lime"              : true , // set green lime accent color
+	"material_theme_panel_separator"          : true , // show bottom panel separator
+	"material_theme_tabs_autowidth"           : true , // Enable autowidth for tabs
+	"material_theme_contrast_mode"            : true , // Enable sidebar and panels contrast mode
+
+// If you use Material Theme - Appbar addon you can use additional settings:
+"material_theme_tree_headings"            : true , // Show sidebar headings
+	"translate_tabs_to_spaces": true
+}
