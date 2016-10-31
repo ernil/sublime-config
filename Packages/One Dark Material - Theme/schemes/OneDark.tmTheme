@@ -243,7 +243,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DF6A73</string>
+				<string>#df6a73</string>
 			</dict>
 		</dict>
 		<dict>
@@ -355,7 +355,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DF6A73</string>
+				<string>#df6a73</string>
 			</dict>
 		</dict>
 		<dict>
@@ -377,7 +377,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DF6A73</string>
+				<string>#df6a73</string>
 			</dict>
 		</dict>
 		<dict>

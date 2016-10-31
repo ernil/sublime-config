@@ -345,19 +345,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Function name</string>
-			<key>scope</key>
-			<string>entity.name.function, support.function.any-method</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#AC885B</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>§ css:pseudo-class</string>
 			<key>scope</key>
 			<string>meta.selector.css entity.other.attribute-name.tag.pseudo-class</string>
@@ -522,13 +509,13 @@
 		</dict>
 	<dict>
             <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
+            <string>SublimeLinter Warning</string>
             <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
+            <string>sublimelinter.mark.warning</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#FFFFFF</string>
+                <string>#DDB700</string>
             </dict>
         </dict><dict>
             <key>name</key>
@@ -542,13 +529,13 @@
             </dict>
         </dict><dict>
             <key>name</key>
-            <string>SublimeLinter Warning</string>
+            <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
+            <string>sublimelinter.gutter-mark</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DDB700</string>
+                <string>#FFFFFF</string>
             </dict>
         </dict></array>
 	<key>uuid</key>

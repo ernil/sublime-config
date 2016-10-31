@@ -31,7 +31,7 @@
             "html (django)": "html",
             "html (rails)": "html",
             "javascript (babel)": "javascript",
-            "php": "html"
+            "php": "php"
         },
         "warning_color": "DDB700",
         "wrap_find": true
